@@ -10,7 +10,7 @@ React is a JavaScript library for building user interfaces.
 
 ## Installation
 
-React has been designed for gradual adoption from the start, and **you can use as little or as much React as you need**:
+React has been designed for gradual adoption from the start, and ***you can use as little or as much React as you need***:
 
 * Use [Online Playgrounds](https://reactjs.org/docs/getting-started.html#online-playgrounds) to get a taste of React.
 * [Add React to a Website](https://reactjs.org/docs/add-react-to-a-website.html) as a `<script>` tag in one minute.
@@ -18,7 +18,7 @@ React has been designed for gradual adoption from the start, and **you can use a
 
 You can use React as a `<script>` tag from a [CDN](https://reactjs.org/docs/cdn-links.html), or as a `react` package on [npm](https://www.npmjs.com/package/react).
 
-## Documentation
+## HERE IS Documentation
 
 You can find the React documentation [on the website](https://reactjs.org/).  
 
